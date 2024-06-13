@@ -1,11 +1,11 @@
-# PipeOps-HTML-Starterkit 
+# octo-shell
 
-### Get Started
-Firstly, you need to clone the project. 
+project name: octo-shell (otherwise, unnamed project)
 
-```bash
-$ git clone <project>
-$ cd <project>
-```
+project: submission to the (pipeops hackathon)[https://pipeops.io/hackathon]
 
-Open index.html 
+a web app that snaps or accepts pictures of health forms and extracts form fields and value
+
+extracted data is used to autofill digital forms and records
+
+deji
