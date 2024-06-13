@@ -9,6 +9,7 @@ infisical-python = "*"
 jupyter = "*"
 ipython = "*"
 django-environ = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
