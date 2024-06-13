@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
+infisical-python = "*"
+jupyter = "*"
+ipython = "*"
+django-environ = "*"
 
 [dev-packages]
 
